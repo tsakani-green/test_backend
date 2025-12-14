@@ -59,7 +59,9 @@ else:
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:3000",
-        "http://127.0.0.1:3000",
+        "http://127.0.0.1:3000",        
+        "https://test-esg-henna.vercel.app",
+        "*",
     ]
 
 DATA_DIR = os.getenv("ESG_DATA_DIR", ".")
