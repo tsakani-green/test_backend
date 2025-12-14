@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+motor
+passlib[bcrypt]
+PyJWT
+python-dotenv
+pypdf
+openai
